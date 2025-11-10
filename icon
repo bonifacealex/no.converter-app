@@ -1,0 +1,17 @@
+<!-- Save as blue-icon-192.png -->
+<svg width="192" height="192" viewBox="0 0 192 192" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="192" height="192" rx="32" fill="#2563EB"/>
+  <rect x="24" y="24" width="144" height="144" rx="24" fill="white"/>
+  <path d="M96 48L112 80L144 80L120 104L136 144L96 120L56 144L72 104L48 80L80 80L96 48Z" fill="#2563EB"/>
+  <circle cx="96" cy="96" r="32" stroke="#2563EB" stroke-width="4" fill="none"/>
+  <text x="96" y="140" text-anchor="middle" fill="#2563EB" font-family="Arial" font-size="14" font-weight="bold">CONVERT</text>
+</svg>
+
+<!-- Save as blue-icon-512.png -->
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="512" height="512" rx="96" fill="#2563EB"/>
+  <rect x="64" y="64" width="384" height="384" rx="64" fill="white"/>
+  <path d="M256 128L320 224L416 224L352 288L384 384L256 320L128 384L160 288L96 224L192 224L256 128Z" fill="#2563EB"/>
+  <circle cx="256" cy="256" r="85" stroke="#2563EB" stroke-width="8" fill="none"/>
+  <text x="256" y="380" text-anchor="middle" fill="#2563EB" font-family="Arial" font-size="32" font-weight="bold">CONVERT</text>
+</svg>
